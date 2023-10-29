@@ -9,4 +9,4 @@ Trabajo Fin de Grado en Técnico Superior en Sistemas de Telecomunicaciones e In
 
 CC BY-NC-SA 3.0 ES Alejandro Pérez
 
-![CC](./Imagenes_Recuros/CC-BY-NC-SA-4.0.jpg)
+![CC](./Imagenes_Recursos/CC-BY-NC-SA-4.0.jpg)
