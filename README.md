@@ -7,7 +7,7 @@
 
 ## Tabla de contenidos:
 ---
-<div style="text-align:left">
+
 - [Librerías](#Librerías)
 - [Código de Arduino](#Código-de-Arduino)
 - [Interfaz de Usuario](#Código-GUI)
