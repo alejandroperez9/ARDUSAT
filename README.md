@@ -6,7 +6,6 @@
 
 
 ## Tabla de contenidos:
----
 
 - [Librerías](#Librerías)
 - [Código de Arduino](#Código-de-Arduino)
@@ -22,11 +21,12 @@
 
 
 ## Descripción y contexto
+
 ARDUSAT es un proyecto basado en Arduino, el cual tiene como objetivo, la creacción de un satélite meteorológico de bajo costo, utilizando la comunicación mediante radiofrecuencia, así como la lectura de varios sensores, y la combinación de los mismos.
 
 
 ### Dependencias
----
+
 Librerías necesarias para el correcto funcionamiento del código de Arduino, tanto en el emisor como en el receptor de dicho proyeto.
 
 [Librerías](#Librerías)
@@ -41,7 +41,7 @@ Librerías necesarias para el correcto funcionamiento del código de Arduino, ta
 
 
 ## Código de conducta 
----
+
 [Código de Conducta](#CODE-OF-CONDUCT.md)
 
 ## Autor/es
