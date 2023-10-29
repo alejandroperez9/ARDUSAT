@@ -2,7 +2,7 @@
 
 <p align="center">
 ![CC](./Imagenes_Recursos/ESPACIO.jpg)
-</p>
+
 
 ## Tabla de contenidos:
 ---
