@@ -7,7 +7,7 @@
 
 ## Tabla de contenidos:
 ---
-<div style="text-align:right; margin-left: auto;">
+<div style="text-align:right; margin-right: auto;">
   <img src="Imagenes_Recursos/Roundel_of_Spain.svg.png" width="150" />
 </div>
 
