@@ -7,7 +7,7 @@
 
 ## Tabla de contenidos:
 ---
-<div style="text-align:right">
+<div style="align:right">
   <img src="Imagenes_Recursos/Roundel_of_Spain.svg.png" width="150" />
 </div>
 
@@ -20,11 +20,8 @@
 - [Memoria](#Memoria)
 - [Anexos](#Anexos)
 - [Softwares Utilizados](#Programas)
-- [Imágenes](#Imágenes)</div>
-
-<div style="text-align:right">
-  <img src="Imagenes_Recursos/Roundel_of_Spain.svg.png" width="150" />
-</div>
+- [Imágenes](#Imágenes)
+  
 
 
 ## Descripción y contexto
