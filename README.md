@@ -7,10 +7,7 @@
 
 ## Tabla de contenidos:
 ---
-<div style="text-align:right">
-  <img src="Imagenes_Recursos/Roundel_of_Spain.svg.png"  />
-</div>
-
+<div style="text-align:left">
 - [Librerías](#Librerías)
 - [Código de Arduino](#Código-de-Arduino)
 - [Interfaz de Usuario](#Código-GUI)
@@ -20,7 +17,11 @@
 - [Memoria](#Memoria)
 - [Anexos](#Anexos)
 - [Softwares Utilizados](#Programas)
-- [Imágenes](#Imágenes)
+- [Imágenes](#Imágenes)</div>
+
+<div style="text-align:right">
+  <img src="Imagenes_Recursos/Roundel_of_Spain.svg.png" width="150" />
+</div>
 
 
 ## Descripción y contexto
