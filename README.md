@@ -1,12 +1,53 @@
-# ARDUSAT
+<h1 align="center"> ARDUSAT</h1>
+<p align="center"> Logo e imagen o gif de la interfaz principal de la herramienta</p>
+<p align="center"><img src=![CC](./Imagenes_Recursos/ESPACIO.png)/></p> 
 
-Creación de un Satélite Meteorológico basado en Arduino. Un proyecto que se basa por completo en el IDE de Arduino, así como en la comunicación mediante radiofrecuencia. Un proyecto para entender y explorar el mundo espacial.
+## Tabla de contenidos:
+---
 
-Aplico mis conocimientos, mis ganas y mi interés por el mundo aeronáuto y espacial, haciendo de este, un proyecto más sencillo.
+- [Librerías](#Librerías)
+- [Código de Arduino](#Código-de-Arduino)
+- [Interfaz de Usuario](#Código-GUI)
+- [Esquemas Eléctricos](#Esquemas-Eléctricos)
+- [Planos 2D y 3D](#Planos)
+- [Manual de Montaje](#Manual-de-Montaje)
+- [Memoria](#Memoria)
+- [Anexos](#Anexos)
+- [Softwares Utilizados](#Programas)
+- [Imágenes](#Imágenes)
 
-## Motivos:
-Trabajo Fin de Grado en Técnico Superior en Sistemas de Telecomunicaciones e Informáticos. 
 
-CC BY-NC-SA 3.0 ES Alejandro Pérez Aranda.
+## Descripción y contexto
+ARDUSAT es un proyecto basado en Arduino, el cual tiene como objetivo, la creacción de un satélite meteorológico de bajo costo, utilizando la comunicación mediante radiofrecuencia, así como la lectura de varios sensores, y la combinación de los mismos.
+
+
+### Dependencias
+---
+Librerías necesarias para el correcto funcionamiento del código de Arduino, tanto en el emisor como en el receptor de dicho proyeto.
+
+[Librerías](#Librerías)
+
+    LIBRERÍAS EMPLEADAS EN ARDUINO:
+        <DHT.h>
+        <LoRa.h>
+        <Wire.h>
+        <I2Cdev.h>
+        <MPU6050.h>
+
+
+
+## Código de conducta 
+---
+[Código de Conducta](#CODE-OF-CONDUCT.md)
+
+## Autor/es
+Autor: Alejandro Pérez Aranda
+Estudiante en Técnico Superior en sistemas de Telecomunicaciones e Informáticos.
+Finalización de curos con este trabajo final.
+
+
+## Licencia 
+Licencia Open Source.
+Todo el mundo podrá utilizar este proyecto como base para otro, pero se requerirá de una mención.
 
 ![CC](./Imagenes_Recursos/CC-BY-NC-SA-4.0.jpg)
