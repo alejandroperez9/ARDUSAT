@@ -7,6 +7,6 @@ Aplico mis conocimientos, mis ganas y mi interés por el mundo aeronáuto y espa
 ## Motivos:
 Trabajo Fin de Grado en Técnico Superior en Sistemas de Telecomunicaciones e Informáticos. 
 
-CC BY-NC-SA 3.0 ES Alejandro Pérez
+CC BY-NC-SA 3.0 ES Alejandro Pérez Aranda.
 
 ![CC](./Imagenes_Recursos/CC-BY-NC-SA-4.0.jpg)
