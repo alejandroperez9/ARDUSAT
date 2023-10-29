@@ -1,8 +1,9 @@
 <h1 align="center"> ARDUSAT</h1>
 
-<p align="center">
-(./Imagenes_Recursos/ESPACIO.jpg)
-</p>
+<div style="text-align:center">
+  <img src="./Imagenes_Recursos/ESPACIO.jpg" />
+</div>
+
 
 ## Tabla de contenidos:
 ---
