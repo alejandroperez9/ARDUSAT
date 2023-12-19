@@ -9,7 +9,6 @@
 
 - [Librerías](#Librerías)
 - [Código de Arduino](#Código-de-Arduino)
-- [Interfaz de Usuario](#Código-GUI)
 - [Esquemas Eléctricos](#Esquemas-Eléctricos)
 - [Planos 2D y 3D](#Planos)
 - [Manual de Montaje](#Manual-de-Montaje)
