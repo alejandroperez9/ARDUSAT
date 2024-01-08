@@ -1,21 +1,21 @@
 <h1 align="center"> ARDUSAT</h1>
 
 <div style="text-align:center">
-  <img src="./Imagenes_Recursos/ESPACIO.jpg" />
+  <img src="./Imagenes Recursos/ESPACIO.jpg" />
 </div>
 
 
 ## Tabla de contenidos:
 
-- [Librerías](#Librerías)
+- [Librerías](https://github.com/alejandroperez9/ARDUSAT/tree/main/Librer%C3%ADas)
 - [Código de Arduino](https://github.com/alejandroperez9/ARDUSAT/tree/main/C%C3%B3digo%20de%20Arduino)
 - [Esquemas Eléctricos](https://github.com/alejandroperez9/ARDUSAT/tree/main/Esquemas%20El%C3%A9ctricos)
-- [Planos 2D y 3D](#Planos)
-- [Manual de Montaje](#Manual-de-Montaje)
+- [Planos 2D y 3D](https://github.com/alejandroperez9/ARDUSAT/tree/main/Planos%202D%20y%203D)
+- [Manual de Montaje](https://github.com/alejandroperez9/ARDUSAT/tree/main/Manual%20de%20Montaje)
 - [Memoria](#Memoria)
 - [Anexos](https://github.com/alejandroperez9/ARDUSAT/tree/main/Anexos)
 - [Softwares Utilizados](#Programas)
-- [Imágenes](#Imágenes)
+- [Imágenes](https://github.com/alejandroperez9/ARDUSAT/tree/main/Imagenes%20Recursos)
   
 
 
@@ -28,7 +28,7 @@ ARDUSAT es un proyecto basado en Arduino, el cual tiene como objetivo, la creacc
 
 Librerías necesarias para el correcto funcionamiento del código de Arduino, tanto en el emisor como en el receptor de dicho proyeto.
 
-[Librerías](#Librerías)
+[Librerías](https://github.com/alejandroperez9/ARDUSAT/tree/main/Librer%C3%ADas)
 
     LIBRERÍAS EMPLEADAS EN ARDUINO:
         <DHT.h>
@@ -53,4 +53,4 @@ Finalización de curos con este trabajo final.
 Licencia Open Source.
 Todo el mundo podrá utilizar este proyecto como base para otro, pero se requerirá de una mención.
 
-![CC](./Imagenes_Recursos/CC-BY-NC-SA-4.0.jpg)
+![CC](./Imagenes Recursos/CC-BY-NC-SA-4.0.jpg)
