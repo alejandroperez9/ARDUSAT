@@ -41,7 +41,7 @@ Librerías necesarias para el correcto funcionamiento del código de Arduino, ta
 
 ## Código de conducta 
 
-[Código de Conducta](#CODE-OF-CONDUCT.md)
+[Código de Conducta](https://github.com/alejandroperez9/ARDUSAT/blob/main/CODE_OF_CONDUCT.md)
 
 ## Autor/es
 Autor: Alejandro Pérez Aranda
