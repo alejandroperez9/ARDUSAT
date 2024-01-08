@@ -8,12 +8,12 @@
 ## Tabla de contenidos:
 
 - [Librerías](#Librerías)
-- [Código de Arduino](#Código-de-Arduino)
-- [Esquemas Eléctricos](#Esquemas-Eléctricos)
+- [Código de Arduino](https://github.com/alejandroperez9/ARDUSAT/tree/main/C%C3%B3digo%20de%20Arduino)
+- [Esquemas Eléctricos](https://github.com/alejandroperez9/ARDUSAT/tree/main/Esquemas%20El%C3%A9ctricos)
 - [Planos 2D y 3D](#Planos)
 - [Manual de Montaje](#Manual-de-Montaje)
 - [Memoria](#Memoria)
-- [Anexos](#Anexos)
+- [Anexos](https://github.com/alejandroperez9/ARDUSAT/tree/main/Anexos)
 - [Softwares Utilizados](#Programas)
 - [Imágenes](#Imágenes)
   
