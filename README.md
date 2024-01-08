@@ -14,7 +14,7 @@
 - [Manual de Montaje](https://github.com/alejandroperez9/ARDUSAT/tree/main/Manual%20de%20Montaje)
 - [Memoria](#Memoria)
 - [Anexos](https://github.com/alejandroperez9/ARDUSAT/tree/main/Anexos)
-- [Softwares Utilizados](#Programas)
+- [Softwares Utilizados](https://github.com/alejandroperez9/ARDUSAT/tree/main/Software)
 - [Imágenes](https://github.com/alejandroperez9/ARDUSAT/tree/main/Imagenes%20Recursos)
   
 
