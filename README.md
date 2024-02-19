@@ -53,4 +53,4 @@ Finalización de curos con este trabajo final.
 Licencia Open Source.
 Todo el mundo podrá utilizar este proyecto como base para otro, pero se requerirá de una mención.
 
-![CC](/Imagenes Recursos/CC-BY-NC-SA-4.0.jpg)
+![CC](./Imagenes Recursos/CC-BY-NC-SA-4.0.jpg)
