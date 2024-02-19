@@ -53,4 +53,5 @@ Finalización de curos con este trabajo final.
 Licencia Open Source.
 Todo el mundo podrá utilizar este proyecto como base para otro, pero se requerirá de una mención.
 
-![CC](./Imagenes Recursos/CC-BY-NC-SA-4.0.jpg)
+![CC](https://github.com/alejandroperez9/ARDUSAT/raw/main/Imagenes%20Recursos/CC-BY-NC-SA-4.0.jpg)
+
