@@ -12,7 +12,7 @@
 - [Esquemas Eléctricos](https://github.com/alejandroperez9/ARDUSAT/tree/main/Esquemas%20El%C3%A9ctricos)
 - [Planos 2D y 3D](https://github.com/alejandroperez9/ARDUSAT/tree/main/Planos%202D%20y%203D)
 - [Manual de Montaje](https://github.com/alejandroperez9/ARDUSAT/tree/main/Manual%20de%20Montaje)
-- [Memoria](#Memoria)
+- [Memoria](https://github.com/alejandroperez9/ARDUSAT/blob/main/Memoria/ArduSat_Alejandro_Perez_Aranda.pdf)
 - [Anexos](https://github.com/alejandroperez9/ARDUSAT/tree/main/Anexos)
 - [Softwares Utilizados](https://github.com/alejandroperez9/ARDUSAT/tree/main/Software)
 - [Imágenes](https://github.com/alejandroperez9/ARDUSAT/tree/main/Imagenes%20Recursos)
